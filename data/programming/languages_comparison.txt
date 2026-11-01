@@ -1,0 +1,61 @@
+השוואה בין שפות תכנות / Programming Languages Comparison
+==========================================================
+
+Python
+------
+סוג טיפוסים: דינמי (Dynamic typing) - הטיפוס נקבע בזמן ריצה.
+הרצה: מפורשת (Interpreted).
+שימושים עיקריים: מדעי נתונים, בינה מלאכותית, אוטומציה, צד שרת (Django, Flask, FastAPI).
+Strengths: very readable syntax, huge library ecosystem, fast to write.
+Weaknesses: slower than compiled languages, the GIL limits true multi-threading.
+
+Java
+----
+סוג טיפוסים: סטטי (Static typing) - חובה להצהיר על טיפוס כל משתנה.
+הרצה: מהודרת ל-Bytecode שרץ על JVM (Java Virtual Machine).
+שימושים עיקריים: מערכות ארגוניות, אפליקציות Android, צד שרת (Spring).
+Strengths: "Write once, run anywhere", strong OOP, stable and mature.
+Weaknesses: verbose syntax, more boilerplate code.
+
+JavaScript
+----------
+סוג טיפוסים: דינמי.
+הרצה: בדפדפן, ובצד שרת עם Node.js.
+שימושים עיקריים: פיתוח Web - צד לקוח (React, Vue, Angular) וצד שרת (Node.js, Express).
+Strengths: the only language that runs natively in every browser, huge community.
+Weaknesses: loose typing causes surprising bugs (use TypeScript to add types).
+
+C#
+--
+סוג טיפוסים: סטטי.
+הרצה: מהודרת ל-IL שרץ על .NET.
+שימושים עיקריים: אפליקציות Windows, צד שרת (ASP.NET), פיתוח משחקים (Unity).
+Strengths: modern features (LINQ, async/await), excellent tooling in Visual Studio.
+Weaknesses: historically tied to Microsoft, though .NET is now cross-platform.
+
+טבלת סיכום / Summary Table
+--------------------------
+Language    | Typing  | Runs on        | Typical use
+Python      | Dynamic | Interpreter    | Data, AI, scripts
+Java        | Static  | JVM            | Enterprise, Android
+JavaScript  | Dynamic | Browser / Node | Web
+C#          | Static  | .NET           | Windows, games, web
+
+מונחים חשובים / Key Terms
+-------------------------
+Compiled vs Interpreted:
+שפה מהודרת (Compiled) מתורגמת כולה לקוד מכונה לפני ההרצה, ולכן רצה מהר יותר.
+שפה מפורשת (Interpreted) מתורגמת שורה אחר שורה בזמן ההרצה, ולכן נוחה לפיתוח מהיר.
+
+Static vs Dynamic typing:
+In static typing, type errors are caught at compile time.
+In dynamic typing, type errors appear only when the code runs.
+
+Garbage Collection:
+שחרור זיכרון אוטומטי של אובייקטים שאין בהם עוד שימוש. קיים ב-Python, Java, JavaScript ו-C#.
+
+איזו שפה ללמוד ראשונה? / Which language first?
+-----------------------------------------------
+למתחילים: Python, בזכות התחביר הפשוט והקריא.
+למי שרוצה לבנות אתרים: JavaScript.
+למי שרוצה להבין לעומק תכנות מונחה עצמים: Java או C#.

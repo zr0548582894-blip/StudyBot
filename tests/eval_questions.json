@@ -1,0 +1,17 @@
+[
+  {"q": "What is supervised learning?",                         "file": "Lecture1_EvolutionOfAI.pptx", "loc": [22]},
+  {"q": "מה זה למידה לא מונחית?",                                "file": "Lecture1_EvolutionOfAI.pptx", "loc": [28]},
+  {"q": "What is reinforcement learning?",                      "file": "Lecture1_EvolutionOfAI.pptx", "loc": [32]},
+  {"q": "Why should you never test on the training data?",      "file": "Lecture1_EvolutionOfAI.pptx", "loc": [25]},
+  {"q": "מה ההבדל בין למידת מכונה ללמידה עמוקה?",                "file": "Lecture1_EvolutionOfAI.pptx", "loc": [44, 45]},
+  {"q": "What is gradient descent?",                            "file": "Lecture2_Regression.pptx",    "loc": [12, 13, 14]},
+  {"q": "מה זה קצב הלמידה אלפא ואיך בוחרים אותו?",               "file": "Lecture2_Regression.pptx",    "loc": [14, 16]},
+  {"q": "What does R squared measure?",                         "file": "Lecture2_Regression.pptx",    "loc": [29, 30]},
+  {"q": "What is overfitting in polynomial regression?",        "file": "Lecture2_Regression.pptx",    "loc": [47, 50, 51]},
+  {"q": "איך עובד k-NN regression?",                             "file": "Lecture2_Regression.pptx",    "loc": [53, 54]},
+  {"q": "מה ההבדל בין רשימה לטאפל?",                             "file": "python_basics.md",            "loc": []},
+  {"q": "What is the difference between let and const?",        "file": "javascript_basics.md",        "loc": []},
+  {"q": "What does LEFT JOIN return?",                          "file": "sql_basics.pdf",              "loc": [3]},
+  {"q": "מה זה ממשק ב-Java?",                                    "file": "java_oop.pdf",                "loc": [4]},
+  {"q": "איזו שפת תכנות כדאי ללמוד ראשונה?",                     "file": "languages_comparison.txt",    "loc": []}
+]

@@ -1,0 +1,15 @@
+# ===== לב המערכת =====
+llama-index-core                      # מנהלת את כל תהליך ה-RAG
+
+# ===== תוספים של LlamaIndex =====
+llama-index-llms-google-genai         # חיבור למודל השפה Gemini
+llama-index-embeddings-huggingface    # מודל Embeddings שרץ במחשב (חינם)
+llama-index-vector-stores-chroma      # חיבור בין LlamaIndex ל-ChromaDB
+
+# ===== ספריות עזר =====
+chromadb                              # מסד הנתונים של הווקטורים
+python-pptx                           # קריאת מצגות PowerPoint
+pypdf                                 # קריאת קובצי PDF
+python-dotenv                         # טעינת מפתח ה-API מקובץ .env
+streamlit                             # ממשק המשתמש בדפדפן
+truststore                            # אימות SSL דרך מאגר האישורים של Windows (פתרון ל-NetFree)

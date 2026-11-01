@@ -1,0 +1,16 @@
+# ערכת צבעים של StudyBot - "מחברת פתוחה על שולחן"
+[theme]
+base = "light"
+primaryColor = "#2F4A9A"              # דיו כחול
+backgroundColor = "#ECE9F3"           # השולחן
+secondaryBackgroundColor = "#FFFEFB"  # נייר
+textColor = "#1E2B4F"                 # דיו כהה
+
+[server]
+enableStaticServing = true            # מגיש את הגופנים מתיקיית src/static (לא תלוי באינטרנט)
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"               # מסתיר את כפתור Deploy
